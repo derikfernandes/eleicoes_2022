@@ -16,20 +16,20 @@ A primeira parte do estudo é voltada para analisar a base de dados fornecida pe
 
 Dados do TSE:
 
-A) Boletim de Urna
+          A) Boletim de Urna
 
-link: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna
+          link: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna
 
-B) Prestação de Contas Eleitorais
+          B) Prestação de Contas Eleitorais
 
-link: https://dadosabertos.tse.jus.br/dataset/dadosabertos-tse-jus-br-dataset-prestacao-de-contas-eleitorais-2022
+          link: https://dadosabertos.tse.jus.br/dataset/dadosabertos-tse-jus-br-dataset-prestacao-de-contas-eleitorais-2022
 
-**Trabalhos Futuros:**
+         C) Candidatos
 
-C) Candidatos
+          link: https://dadosabertos.tse.jus.br/dataset/candidatos-2022
 
-link: https://dadosabertos.tse.jus.br/dataset/candidatos-2022
-
+          
+**Trabalhos Futuros:** 
 Analise de classificação de candidados eleitos
 
 Criar grupos (clusterizações)
