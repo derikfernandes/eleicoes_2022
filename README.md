@@ -14,7 +14,21 @@ Quais candidatos mais se descataram nessas variáveis?
 
 A primeira parte do estudo é voltada para analisar a base de dados fornecida pelo TSE, escolher as melhores variáveis e mesclar a base de dados objetivando formar uma base de dados final que servirá para este estudo.
 
+Dados do TSE:
+
+A) Boletim de Urna
+
+link: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna
+
+B) Prestação de Contas Eleitorais
+
+link: https://dadosabertos.tse.jus.br/dataset/dadosabertos-tse-jus-br-dataset-prestacao-de-contas-eleitorais-2022
+
 **Trabalhos Futuros:**
+
+C) Candidatos
+
+link: https://dadosabertos.tse.jus.br/dataset/candidatos-2022
 
 Analise de classificação de candidados eleitos
 
