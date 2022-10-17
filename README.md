@@ -19,16 +19,37 @@ Dados do TSE:
           A) Boletim de Urna
 
           link: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna
+         
+Esses dados estão quebrados pela zora eleitoral e seção, visando manter os dados agrupados por candidatos (objeto do nosso estudo), agrupamos os dados e criamos algumas variáveis que são:
+
+DFS_MUNICIPIO= Quantidade de municípios diferente que o candidato teve voto
+
+DFS_ZONA=Quantidade de zonas diferente que o candidato teve voto
+
+DFS_SECAO=Quantidade de seções diferente que o candidato teve voto
+
+DFS_LOCAL_VOTACAO=Quantidade de locais de votação diferentes que o candidato teve voto
+
+QT_VOTOS =Quantidade de locais de votos totais que o candidato teve
+
+STD_VOTOS = Desvio padrão dos votos (objetivo medir a variância da quantidade de votos dentro das zonas)      
+        
 
           B) Prestação de Contas Eleitorais
 
           link: https://dadosabertos.tse.jus.br/dataset/dadosabertos-tse-jus-br-dataset-prestacao-de-contas-eleitorais-2022
+          
+Esses dados estão quebrados pelas diferentes categorias de gasto, visando manter os dados agrupados por candidatos (objeto do nosso estudo), agrupamos os dados e criamos algumas variáveis representativas que são:
+
+
+
 
           C) Candidatos
 
           link: https://dadosabertos.tse.jus.br/dataset/candidatos-2022
-
           
+ 
+
 **Trabalhos Futuros:** 
 Analise de classificação de candidados eleitos
 
