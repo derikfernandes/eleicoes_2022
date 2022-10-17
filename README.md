@@ -1,6 +1,8 @@
-Análise Estatísticas das eleições em 2022
+**Análise Estatísticas das eleições em 2022**
 
-Perguntas a responder:
+**Objetivo do Trabalho**
+O objetivo deste trabalho é analisar estatisticamente as bases de dados fornecidas pelo TSE e encontrar pontos de destaque bem como responder as perguntas previamente definidas e abaixo listadas.
+
 Quais as variáveis mais influenciaram na quantidade de votos?
 
 
