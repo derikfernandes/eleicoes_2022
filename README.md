@@ -35,7 +35,7 @@ DFS_LOCAL_VOTACAO=Quantidade de locais de votação diferentes que o candidato t
 QT_VOTOS =Quantidade de locais de votos totais que o candidato teve
 
 STD_VOTOS = Desvio padrão dos votos (objetivo medir a variância da quantidade de votos dentro das zonas)      
-        
+   
 
           B) Prestação de Contas Eleitorais
 
@@ -43,7 +43,20 @@ STD_VOTOS = Desvio padrão dos votos (objetivo medir a variância da quantidade 
           
 Esses dados estão quebrados pelas diferentes categorias de gasto, visando manter os dados agrupados por candidatos (objeto do nosso estudo), agrupamos os dados e criamos algumas variáveis representativas que são:
 
-
+NM_CANDIDATO               object
+FIRST_ORIGEM_DESPESA       object
+LAST_ORIGEM_DESPESA        object
+STD_ORIGEM_DESPESA        float64
+FIRST_DS_DOCUMENTO         object
+LAST_DS_DOCUMENTO          object
+STD_DOCUMENTO             float64
+NR_CANDIDATO                int64
+NM_PARTIDO                 object
+VR_PESSOA_FISICA          float64
+VR_PESSOA_JURIDICA        float64
+recencia_media_DESPESA    float64
+recencia_STD_DESPESA      float64
+VR_DESPESA_CONTRATADA     float64
 
 
           C) Candidatos
