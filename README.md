@@ -43,20 +43,27 @@ STD_VOTOS = Desvio padrão dos votos (objetivo medir a variância da quantidade 
           
 Esses dados estão quebrados pelas diferentes categorias de gasto, visando manter os dados agrupados por candidatos (objeto do nosso estudo), agrupamos os dados e criamos algumas variáveis representativas que são:
 
-NM_CANDIDATO               object
-FIRST_ORIGEM_DESPESA       object
-LAST_ORIGEM_DESPESA        object
-STD_ORIGEM_DESPESA        float64
-FIRST_DS_DOCUMENTO         object
-LAST_DS_DOCUMENTO          object
-STD_DOCUMENTO             float64
-NR_CANDIDATO                int64
-NM_PARTIDO                 object
-VR_PESSOA_FISICA          float64
-VR_PESSOA_JURIDICA        float64
-recencia_media_DESPESA    float64
-recencia_STD_DESPESA      float64
-VR_DESPESA_CONTRATADA     float64
+FIRST_ORIGEM_DESPESA = A origem de despesa que tem mais gasto, em valor monetário, por candidato.
+
+LAST_ORIGEM_DESPESA = A origem de despesa que tem menos gasto, em valor monetário, por candidato.
+
+STD_ORIGEM_DESPESA = O desvio padrão da origem de despesa (objetivo medir a variância da origem da despesa)  
+
+FIRST_DS_DOCUMENTO = A descrição de despesa que tem mais gasto, em valor monetário, por candidato.
+
+LAST_DS_DOCUMENTO  = A descrição de despesa que tem menos gasto, em valor monetário, por candidato.
+
+STD_DOCUMENTO = O desvio padrão da descrição da despesa (objetivo medir a variância da descrição da despesa)  
+
+VR_PESSOA_FISICA = valor total gasto com despesas pagas para Pessoas Físicas
+
+VR_PESSOA_JURIDICA  = valor total gasto com despesas pagas para Pessoas Jurídicas
+
+recencia_media_DESPESA = quantidade média de dias que foram realizado os gastos (objetivo medir se o período em que foi mais gasto influenciará de alguma forma)
+
+recencia_STD_DESPESA  = O desvio padrão da quantidade de dias da despesa (objetivo medir a variância da recência da despesa)  
+
+VR_DESPESA_CONTRATADA = Valor total gasto por candidato
 
 
           C) Candidatos
