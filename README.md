@@ -22,7 +22,7 @@ Dados do TSE:
 
           link: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna
          
-Esses dados estão quebrados pela zora eleitoral e seção, visando manter os dados agrupados por candidatos (objeto do nosso estudo), agrupamos os dados e criamos algumas variáveis que são:
+Esses dados estão quebrados pela zona eleitoral e seção, visando manter os dados agrupados por candidatos (objeto do nosso estudo), agrupamos os dados e criamos algumas variáveis que são:
 
 DFS_MUNICIPIO= Quantidade de municípios diferente que o candidato teve voto
 
