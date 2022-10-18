@@ -7,7 +7,7 @@ A partir da base de dados fornecida pelo TSE conseguimos construir um modelo com
 
 Quais as variáveis mais influenciaram na quantidade de votos?
 
-Quais candidatos mais se descataram nessas variáveis?
+Quais candidatos mais se destacaram nessas variáveis?
 
 **A escolha inicial foi focar na eleição de Deputados Federais no Estado de São Paulo, porém a ideia é elaborar um modelo que esteja pronto para ser rodado para outros estados e outros tipos de candidatura**
 
