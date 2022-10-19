@@ -69,7 +69,17 @@ VR_DESPESA_CONTRATADA = Valor total gasto por candidato
           C) Candidatos
 
           link: https://dadosabertos.tse.jus.br/dataset/candidatos-2022
-          
+         
+Os dados dos candidatos foram agrupados por cada candidato, sendo que, abaixo listo quais as variáveis que foram criadas, a partir das variáveis da base de dados.
+
+recencia_DT_NASCIMENTO = Quantidade de dias de referência da data de nascimento do candidato.
+
+REDE_SOCIAL_XXXXX = Foram criadas 11 variáveis cada uma em relação a uma rede social (Facebook, flickr, instagram, kwai, linkedin, site, telegram, tiktok, twitter, whatsapp e youtube) sendo que o resultado de cada variável é binário, ou seja, apresenta o valor 1 para caso o candidato tenha declarado que possui a rede social e 0 caso não tenha a rede social. 
+
+TOTAL_REDE_SOCAL = É o somatório de quantidade de redes sociais que o candidato possui
+
+
+** A Base de dados final ficou com 1531 dados com 60 variáveis **
  
 
 **Trabalhos Futuros:** 
