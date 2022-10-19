@@ -1,5 +1,7 @@
 **Análise Estatísticas das eleições em 2022**
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **1- Objetivo do Trabalho**
 O objetivo deste trabalho é analisar estatisticamente as bases de dados fornecidas pelo TSE, para a eleição de deputado federal no estado de São Paulo, e encontrar pontos de destaque bem como responder as perguntas previamente definidas e abaixo listadas.
 
