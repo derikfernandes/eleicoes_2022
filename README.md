@@ -26,7 +26,7 @@ Esses dados estão quebrados pela zona eleitoral e seção, visando manter os da
 
 DFS_MUNICIPIO= Quantidade de municípios diferente que o candidato teve voto
 
-DFS_ZONA=Quantidade de zonas diferente que o candidato teve voto
+DFS_ZONA=Quantidade de zonas diferente que o candidato teve voto.
 
 DFS_SECAO=Quantidade de seções diferente que o candidato teve voto
 
