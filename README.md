@@ -94,7 +94,8 @@ ABT_CANDIDATO
 'NM_TIPO_DESTINACAO_VOTOS', 'DS_SITUACAO_CANDIDATO_TOT','ST_PREST_CONTAS', 'recencia_DT_NASCIMENTO', 'DFS_MUNICIPIO',
 'DFS_ZONA', 'DFS_SECAO', 'DFS_LOCAL_VOTACAO', 'QT_VOTOS', 'STD_VOTOS','FIRST_ORIGEM_DESPESA', 'LAST_ORIGEM_DESPESA', 'STD_ORIGEM_DESPESA',
  'FIRST_DS_DOCUMENTO', 'LAST_DS_DOCUMENTO', 'STD_DOCUMENTO','VR_PESSOA_FISICA', 'VR_PESSOA_JURIDICA', 'recencia_media_DESPESA','recencia_STD_DESPESA', 'VR_DESPESA_CONTRATADA', 'VR_BEM_CANDIDATO','REDE_SOCIAL_facebook', 'REDE_SOCIAL_flickr', 'REDE_SOCIAL_instagram','REDE_SOCIAL_kwai', 'REDE_SOCIAL_linkedin', 'REDE_SOCIAL_site','REDE_SOCIAL_telegram', 'REDE_SOCIAL_tiktok', 'REDE_SOCIAL_twitter','REDE_SOCIAL_whatsapp', 'REDE_SOCIAL_youtube' e 'TOTAL_REDE_SOCAL'.
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  
 
