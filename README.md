@@ -79,7 +79,7 @@ REDE_SOCIAL_XXXXX = Foram criadas 11 variáveis cada uma em relação a uma rede
 TOTAL_REDE_SOCAL = É o somatório de quantidade de redes sociais que o candidato possui
 
 
-** A Base de dados final ficou com 1531 dados com 60 variáveis **
+**A Base de dados final ficou com 1531 dados com 60 variáveis **
  
 
 **Trabalhos Futuros:** 
