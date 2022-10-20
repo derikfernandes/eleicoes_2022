@@ -111,3 +111,10 @@ Criar grupos (clusterizações)
 Fazer um estudo embutindo a quantidade de seguidores de cada candidato
 
 Análise a partir da desconsideração do gasto (voto/gasto)
+
+Estender a análise para outros estados
+
+Analisar comportamento d emunicípios visando um entendimento para futuras eleições municipais
+
+construir um dado de nº de seguidores 
+
