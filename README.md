@@ -117,7 +117,14 @@ ABT_CANDIDATO
                               
                               
 2- Análise dos Partidos
+          
           Qde de Partidos = 32
+                     
+          
+          Partidos Isolados = 1341
+                    Em mediana cada partido lançou 58 candidatos
+                    PTB, PODEMOS, PSB, AVANTE, AGIR, PROGESSISTAS, PL, REPUBLICANOS, PRTB, PROS forams os partidos que lançaram mais de                         70 candidatos
+          Federação = 190
           
           
 
