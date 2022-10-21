@@ -103,9 +103,7 @@ ABT_CANDIDATO
  
  **3- Análise Exploratório**
  
-  Dados Univariados:
-  
-          Análise Situação Candidatura
+ 1- Análise Situação Candidatura
           Qde Candidatos = 1531
                     1432 Candidatos APTOS
                               1370 Deferidos
@@ -118,7 +116,7 @@ ABT_CANDIDATO
                               
                               
                               
-          Análise dos Partidos
+2- Análise dos Partidos
           Qde de Partidos = 32
           
           
