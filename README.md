@@ -104,6 +104,7 @@ ABT_CANDIDATO
  **3- Análise Exploratório**
  
  1- Análise Situação Candidatura
+ 
           Qde Candidatos = 1531
                     1432 Candidatos APTOS
                               1370 Deferidos
