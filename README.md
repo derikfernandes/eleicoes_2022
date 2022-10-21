@@ -123,8 +123,13 @@ ABT_CANDIDATO
           
           Partidos Isolados = 1341
                     Em mediana cada partido lançou 58 candidatos
-                    PTB, PODEMOS, PSB, AVANTE, AGIR, PROGESSISTAS, PL, REPUBLICANOS, PRTB, PROS forams os partidos que lançaram mais de                         70 candidatos
+                    Partidos com mais de 70 candidatos =PTB, PODEMOS, PSB, AVANTE, AGIR, PROGESSISTAS, PL, REPUBLICANOS, PRTB, PROS 
+                    
           Federação = 190
+                    Somente haviam 3 Coligações
+                    PT/PC do B/PV = 72
+                    PSOL/REDE = 60
+                    PSDB/CIDADANIA = 58
           
           
 
