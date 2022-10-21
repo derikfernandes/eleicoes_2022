@@ -104,7 +104,12 @@ ABT_CANDIDATO
  **3- Análise Exploratório**
  
   Dados Univariados:
+  
           Qde Candidatos = 1531
+                    1432 Candidatos APTOS
+                    99   Candidatos INAPTOS
+          Qde de Partidos = 32
+          
           
 
 **Trabalhos Futuros:** 
