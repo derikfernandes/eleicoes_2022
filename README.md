@@ -140,9 +140,14 @@ ABT_CANDIDATO
 ![image](https://user-images.githubusercontent.com/93551585/197288949-a68ff54c-69c7-46f1-a426-a397a16b3001.png)
                
           
-          Quantidade de Estados de Nascimento dos candidatos = 24
+          Quantidade de Estados diferentes de Nascimento dos candidatos = 24
           
 ![image](https://user-images.githubusercontent.com/93551585/197290345-ff75a77e-9a9d-4a17-8ad4-14f4a5a4c8d0.png)
+
+          Quantidade de Municípios diferentes de Nascimento dos candidatos = 476
+          
+![image](https://user-images.githubusercontent.com/93551585/197290766-65acf376-f36f-4538-8f00-e09f1f8da86e.png)
+
 
           
                     Em mediana cada partido lançou 58 candidatos
