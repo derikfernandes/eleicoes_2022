@@ -107,7 +107,14 @@ ABT_CANDIDATO
   
           Qde Candidatos = 1531
                     1432 Candidatos APTOS
+                              1370 Deferidos
+                              58 Indeferidos com Recursos
+                              4 Deferidos com Recurso
+                              
                     99   Candidatos INAPTOS
+                              56 Renúncia
+                              43 Indeferidos
+                              
           Qde de Partidos = 32
           
           
