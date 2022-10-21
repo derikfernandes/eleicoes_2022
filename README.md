@@ -132,6 +132,24 @@ ABT_CANDIDATO
                     PSOL/REDE = 60
                     PSDB/CIDADANIA = 58
           
+                              
+3- Detalhamento dos Candidados
+          
+          Qde de Nacionalidade = 3
+                    
+      ![image](https://user-images.githubusercontent.com/93551585/197288949-a68ff54c-69c7-46f1-a426-a397a16b3001.png)
+               
+          
+          Partidos Isolados = 1341
+                    Em mediana cada partido lançou 58 candidatos
+                    Partidos com mais de 70 candidatos =PTB, PODEMOS, PSB, AVANTE, AGIR, PROGESSISTAS, PL, REPUBLICANOS, PRTB, PROS 
+                    
+          Federação = 190
+                    Somente haviam 3 Coligações
+                    PT/PC do B/PV = 72
+                    PSOL/REDE = 60
+                    PSDB/CIDADANIA = 58
+          
           
 
 **Trabalhos Futuros:** 
