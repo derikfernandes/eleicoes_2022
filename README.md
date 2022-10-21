@@ -105,6 +105,7 @@ ABT_CANDIDATO
  
   Dados Univariados:
   
+          Análise Situação Candidatura
           Qde Candidatos = 1531
                     1432 Candidatos APTOS
                               1370 Deferidos
@@ -115,6 +116,9 @@ ABT_CANDIDATO
                               56 Renúncia
                               43 Indeferidos
                               
+                              
+                              
+          Análise dos Partidos
           Qde de Partidos = 32
           
           
