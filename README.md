@@ -140,7 +140,11 @@ ABT_CANDIDATO
 ![image](https://user-images.githubusercontent.com/93551585/197288949-a68ff54c-69c7-46f1-a426-a397a16b3001.png)
                
           
-          Partidos Isolados = 1341
+          Quantidade de Estados de Nascimento dos candidatos = 24
+          
+![image](https://user-images.githubusercontent.com/93551585/197290345-ff75a77e-9a9d-4a17-8ad4-14f4a5a4c8d0.png)
+
+          
                     Em mediana cada partido lançou 58 candidatos
                     Partidos com mais de 70 candidatos =PTB, PODEMOS, PSB, AVANTE, AGIR, PROGESSISTAS, PL, REPUBLICANOS, PRTB, PROS 
                     
