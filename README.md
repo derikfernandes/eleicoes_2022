@@ -137,7 +137,7 @@ ABT_CANDIDATO
           
           Qde de Nacionalidade = 3
                     
-      ![image](https://user-images.githubusercontent.com/93551585/197288949-a68ff54c-69c7-46f1-a426-a397a16b3001.png)
+![image](https://user-images.githubusercontent.com/93551585/197288949-a68ff54c-69c7-46f1-a426-a397a16b3001.png)
                
           
           Partidos Isolados = 1341
