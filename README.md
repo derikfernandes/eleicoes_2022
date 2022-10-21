@@ -102,6 +102,10 @@ ABT_CANDIDATO
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  **3- Análise Exploratório**
+ 
+  Dados Univariados:
+          Qde Candidatos = 1531
+          
 
 **Trabalhos Futuros:** 
 Analise de classificação de candidados eleitos
