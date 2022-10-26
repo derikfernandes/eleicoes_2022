@@ -149,16 +149,16 @@ ABT_CANDIDATO
 ![image](https://user-images.githubusercontent.com/93551585/197290766-65acf376-f36f-4538-8f00-e09f1f8da86e.png)
 
 
-          
-                    Em mediana cada partido lançou 58 candidatos
-                    Partidos com mais de 70 candidatos =PTB, PODEMOS, PSB, AVANTE, AGIR, PROGESSISTAS, PL, REPUBLICANOS, PRTB, PROS 
-                    
-          Federação = 190
-                    Somente haviam 3 Coligações
-                    PT/PC do B/PV = 72
-                    PSOL/REDE = 60
-                    PSDB/CIDADANIA = 58
-          
+         
+         Idade dos Candidatos
+                    63 idades diferentes dos candidatos
+                    Idade Mínima = 21
+                    Idade Máxima = 92
+                    Média = 49
+                    Mediana = 50
+         
+![image](https://user-images.githubusercontent.com/93551585/198124580-8097a051-8ee9-4e19-b068-b5bc7098164a.png)
+
           
 
 **Trabalhos Futuros:** 
