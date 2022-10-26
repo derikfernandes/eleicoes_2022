@@ -159,6 +159,7 @@ ABT_CANDIDATO
          
 ![image](https://user-images.githubusercontent.com/93551585/198124580-8097a051-8ee9-4e19-b068-b5bc7098164a.png)
 
+Existe uma tendência a uma distribuição normal em torno de 50 anos de idade
           
 
 **Trabalhos Futuros:** 
