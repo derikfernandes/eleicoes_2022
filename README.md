@@ -177,3 +177,5 @@ Analisar comportamento d emunicípios visando um entendimento para futuras elei�
 
 construir um dado de nº de seguidores 
 
+Comparar diferentes estados e regiões
+
