@@ -160,6 +160,20 @@ ABT_CANDIDATO
 ![image](https://user-images.githubusercontent.com/93551585/198124580-8097a051-8ee9-4e19-b068-b5bc7098164a.png)
 
 Existe uma tendência a uma distribuição normal em torno de 50 anos de idade
+
+          Gênero 
+              Masculino = 1032 (67,4%) 
+              Feminino  = 499  (32,59%)
+              
+A maioria dos candidatos ainda é composto por homens 
+
+          Grau Instrução
+         
+                    63 idades diferentes dos candidatos
+                    Idade Mínima = 21
+                    Idade Máxima = 92
+                    Média = 49
+                    Mediana = 50
           
 
 **Trabalhos Futuros:** 
