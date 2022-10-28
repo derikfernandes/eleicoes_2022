@@ -168,6 +168,9 @@ Existe uma tendência a uma distribuição normal em torno de 50 anos de idade
 A maioria dos candidatos ainda é composto por homens 
 
           Grau Instrução
+          
+![image](https://user-images.githubusercontent.com/93551585/198732660-d6b5914f-efa4-4805-868f-9806b6cb0519.png)
+
          
                     63 idades diferentes dos candidatos
                     Idade Mínima = 21
