@@ -190,6 +190,10 @@ Ocupação
                     Média = 49
                     Mediana = 50
           
+          
+4- Comparação entre Redes Sociais declaradas dos candidatos
+
+
 
 **Trabalhos Futuros:** 
 Analise de classificação de candidados eleitos
