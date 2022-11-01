@@ -176,6 +176,7 @@ A maioria dos candidatos ainda é composto por homens
 ![image](https://user-images.githubusercontent.com/93551585/199283387-3f2e9d77-0814-4efb-8b54-6f29ba4ab295.png)
 
 Raça
+
 ![image](https://user-images.githubusercontent.com/93551585/199283951-ee63fb03-ccef-44f1-95ce-81e3080cc350.png)
 
 Ocupação
