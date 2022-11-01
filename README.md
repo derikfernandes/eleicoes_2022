@@ -167,11 +167,11 @@ Existe uma tendência a uma distribuição normal em torno de 50 anos de idade
               
 A maioria dos candidatos ainda é composto por homens 
 
-       Grau Instrução
+    Grau Instrução
           
 ![image](https://user-images.githubusercontent.com/93551585/198732660-d6b5914f-efa4-4805-868f-9806b6cb0519.png)
 
-       Estado Civil 
+    Estado Civil 
           
 ![image](https://user-images.githubusercontent.com/93551585/199283387-3f2e9d77-0814-4efb-8b54-6f29ba4ab295.png)
 
