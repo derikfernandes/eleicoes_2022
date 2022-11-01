@@ -167,14 +167,20 @@ Existe uma tendência a uma distribuição normal em torno de 50 anos de idade
               
 A maioria dos candidatos ainda é composto por homens 
 
-    Grau Instrução
+ Grau Instrução
           
 ![image](https://user-images.githubusercontent.com/93551585/198732660-d6b5914f-efa4-4805-868f-9806b6cb0519.png)
 
-    Estado Civil 
+ Estado Civil 
           
 ![image](https://user-images.githubusercontent.com/93551585/199283387-3f2e9d77-0814-4efb-8b54-6f29ba4ab295.png)
 
+Raça
+![image](https://user-images.githubusercontent.com/93551585/199283951-ee63fb03-ccef-44f1-95ce-81e3080cc350.png)
+
+Ocupação
+
+![image](https://user-images.githubusercontent.com/93551585/199284252-21b809df-1563-46b3-bfe5-eda81326257b.png)
 
          
                     63 idades diferentes dos candidatos
@@ -200,4 +206,6 @@ Analisar comportamento d emunicípios visando um entendimento para futuras elei�
 construir um dado de nº de seguidores 
 
 Comparar diferentes estados e regiões
+
+Avaliação através dos reeleitos
 
