@@ -212,9 +212,19 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
           
           Mínimo = Zero (podendo ser não declarado)
           
-          Média  = R$ 181.236,38
-                    Média  (Gasto com PJ)= R$ 115.408,76
-                    Média  (Gasto com PF)= R$ 65.827,62
+          Média  = R$ 286.645,55
+                    Média  (Gasto com PJ)= R$ 182.531,83
+                    Média  (Gasto com PF)= R$ 104.113,72
+                    
+ A seguir esta a análise em relação a data da despesa, medido pela recência
+ 
+          Máximo = O gasto mais antigo esta com 297 dias
+                    O desvio Padrão máximo dos gasto esta em 171
+          Média  = A média dos gastos esta girando em torno de 70 dias
+                    O desvio Padrão médio dos gastos esta em 38
+  
+ De todos os candidatos 563 não prestaram contas, e a média dos gastos girou em torno de 70 dias 
+ 
                     
                     
                     
