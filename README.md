@@ -182,7 +182,14 @@ Raça
 Ocupação
 
 ![image](https://user-images.githubusercontent.com/93551585/199284252-21b809df-1563-46b3-bfe5-eda81326257b.png)
-      
+
+Valor do Bem dos Candidatos
+          
+          Valor Máximo = R$ 88.441.467,08
+          Valor Médio  = R$ 809.195,92
+          Valor Mediano  = R$ 107.300,00
+  
+434 candidatos não prestaram conta/ apresentaram valor zerado de bem 
           
 4- Comparação entre Redes Sociais declaradas dos candidatos
 
