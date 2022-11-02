@@ -211,6 +211,7 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
                     Máximo (Gasto com PF) = R$ 1.823.078,98
           
           Mínimo = Zero (podendo ser não declarado)
+          
           Média  = R$ 181.236,38
                     Média  (Gasto com PJ)= R$ 115.408,76
                     Média  (Gasto com PF)= R$ 65.827,62
