@@ -206,14 +206,14 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
 
 5- Gastos em Campanhas
 
-          Valor Gasto em Campanha
-                    Máximo = R$ 3.286.454,99 (Candidato Arnaldo Jardim)
-                              Máximo (PJ) = R$ 2.357.873,91
-                              Máximo (PF) = R$ 1.823.078,98
-                    Mínimo = Zero (podendo ser não declarado)
-                    Média  = R$ 181.236,38
-                              Média  (PJ)= R$ 115.408,76
-                              Média  (PF)= R$ 65.827,62
+          Máximo = R$ 3.286.454,99 (Candidato Arnaldo Jardim)
+                    Máximo (Gasto com PJ) = R$ 2.357.873,91
+                    Máximo (Gasto com PF) = R$ 1.823.078,98
+          
+          Mínimo = Zero (podendo ser não declarado)
+          Média  = R$ 181.236,38
+                    Média  (Gasto com PJ)= R$ 115.408,76
+                    Média  (Gasto com PF)= R$ 65.827,62
                     
                     
                     
