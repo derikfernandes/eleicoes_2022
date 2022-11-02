@@ -5,7 +5,7 @@
 **1- Objetivo do Trabalho**
 O objetivo deste trabalho é analisar estatisticamente as bases de dados fornecidas pelo TSE, para a eleição de deputado federal no estado de São Paulo, e encontrar pontos de destaque bem como responder as perguntas previamente definidas e abaixo listadas.
 
-A partir da base de dados fornecida pelo TSE conseguimos construir um modelo com qual percentual de explicabilidade?
+A partir da base de dados fornecida pelo TSE conseguimos construir um modelo com qual percentual de explicabilidade? 
 
 Quais as variáveis mais influenciaram na quantidade de votos?
 
