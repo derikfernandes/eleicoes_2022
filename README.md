@@ -218,10 +218,13 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
   
  De todos os candidatos 563 não prestaram contas
  
-          As principais origens das despesas são elencadas abaixo
+          As despesas que mais estiveram em primeiro nos gastos estão elencadas abaixo
           
 ![image](https://user-images.githubusercontent.com/93551585/199579729-580a7dc6-3d08-440c-ade1-41e088f6c1fb.png)
 
+          As despesas que mais estiveram em último nos gastos estão elencadas abaixo
+          
+ ![image](https://user-images.githubusercontent.com/93551585/199580646-051ec0bf-7318-4815-a48a-2a44b2d02656.png)
 
  
                     
