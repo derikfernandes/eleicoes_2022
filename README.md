@@ -204,8 +204,26 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
           
 ![image](https://user-images.githubusercontent.com/93551585/199564013-1b4b44cc-b1b6-4d9a-a784-95d90b4fa1df.png)
 
+5- Gastos em Campanhas
 
-
+          Valor Gasto em Campanha
+                    Máximo = R$ 3.286.454,99 (Candidato Arnaldo Jardim)
+                              Máximo (PJ) = R$ 2.357.873,91
+                              Máximo (PF) = R$ 1.823.078,98
+                    Mínimo = Zero (podendo ser não declarado)
+                    Média  = R$ 181.236,38
+                              Média  (PJ)= R$ 115.408,76
+                              Média  (PF)= R$ 65.827,62
+                    
+                    
+                    
+                              1370 Deferidos
+                              58 Indeferidos com Recursos
+                              4 Deferidos com Recurso
+                              
+                    99   Candidatos INAPTOS
+                              56 Renúncia
+                              43 Indeferidos
 
 **Trabalhos Futuros:** 
 Analise de classificação de candidados eleitos
