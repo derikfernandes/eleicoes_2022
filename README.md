@@ -223,7 +223,13 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
           Média  = A média dos gastos esta girando em torno de 111 dias
                     O desvio Padrão médio dos gastos esta em 61 dias
   
- De todos os candidatos 563 não prestaram contas, e a média dos gastos girou em torno de 70 dias 
+ De todos os candidatos 563 não prestaram contas
+ 
+          As principais origens das despesas são elencadas abaixo
+          
+![image](https://user-images.githubusercontent.com/93551585/199579729-580a7dc6-3d08-440c-ade1-41e088f6c1fb.png)
+
+
  
                     
                     
