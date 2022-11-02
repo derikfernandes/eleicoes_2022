@@ -220,8 +220,8 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
  
           Máximo = O gasto mais antigo esta com 297 dias
                     O desvio Padrão máximo dos gasto esta em 171
-          Média  = A média dos gastos esta girando em torno de 70 dias
-                    O desvio Padrão médio dos gastos esta em 38
+          Média  = A média dos gastos esta girando em torno de 111 dias
+                    O desvio Padrão médio dos gastos esta em 61 dias
   
  De todos os candidatos 563 não prestaram contas, e a média dos gastos girou em torno de 70 dias 
  
