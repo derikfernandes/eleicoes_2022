@@ -182,14 +182,7 @@ Raça
 Ocupação
 
 ![image](https://user-images.githubusercontent.com/93551585/199284252-21b809df-1563-46b3-bfe5-eda81326257b.png)
-
-         
-                    63 idades diferentes dos candidatos
-                    Idade Mínima = 21
-                    Idade Máxima = 92
-                    Média = 49
-                    Mediana = 50
-          
+      
           
 4- Comparação entre Redes Sociais declaradas dos candidatos
 
