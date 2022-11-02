@@ -227,16 +227,6 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
  ![image](https://user-images.githubusercontent.com/93551585/199580646-051ec0bf-7318-4815-a48a-2a44b2d02656.png)
 
  
-                    
-                    
-                    
-                              1370 Deferidos
-                              58 Indeferidos com Recursos
-                              4 Deferidos com Recurso
-                              
-                    99   Candidatos INAPTOS
-                              56 Renúncia
-                              43 Indeferidos
 
 **Trabalhos Futuros:** 
 Analise de classificação de candidados eleitos
