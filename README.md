@@ -234,15 +234,30 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
   
  De todos os candidatos 563 não prestaram contas
  
-          As despesas que mais estiveram em primeiro nos gastos estão elencadas abaixo
+          As despesas que mais estiveram em primeiro em **quantidade** nos gastos estão elencadas abaixo
           
 ![image](https://user-images.githubusercontent.com/93551585/199579729-580a7dc6-3d08-440c-ade1-41e088f6c1fb.png)
 
-          As despesas que mais estiveram em último nos gastos estão elencadas abaixo
+          As despesas que mais estiveram em primeiro em **valor** nos gastos estão elencadas abaixo
+          
+![image](https://user-images.githubusercontent.com/93551585/202002103-5b172f10-56cf-4919-a23b-ea8456dba5ef.png)
+
+          As despesas que mais estiveram em primeiro em **média** nos gastos estão elencadas abaixo
+          
+![image](https://user-images.githubusercontent.com/93551585/202002386-b34c6e73-c257-4414-8954-4e2ae4f9e667.png)
+
+          As despesas que mais estiveram em último em **quantidade** nos gastos estão elencadas abaixo
           
  ![image](https://user-images.githubusercontent.com/93551585/201999788-f2ffb410-74f4-4fea-8dee-b2fe0ac7b5b6.png)
  
- 
+           As despesas que mais estiveram em último em **valor** nos gastos estão elencadas abaixo
+          
+![image](https://user-images.githubusercontent.com/93551585/202003236-ab078026-6cb1-407f-8d39-846c1822e9b1.png)
+
+           As despesas que mais estiveram em último em **média** nos gastos estão elencadas abaixo
+          
+![image](https://user-images.githubusercontent.com/93551585/202003473-5a10e568-9c6e-459b-ad6b-3e1206ed4d5a.png)
+
  
 
  
