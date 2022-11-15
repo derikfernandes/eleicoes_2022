@@ -240,7 +240,7 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
 
           As despesas que mais estiveram em último nos gastos estão elencadas abaixo
           
- ![image](https://user-images.githubusercontent.com/93551585/199580646-051ec0bf-7318-4815-a48a-2a44b2d02656.png)
+ ![image](https://user-images.githubusercontent.com/93551585/201999788-f2ffb410-74f4-4fea-8dee-b2fe0ac7b5b6.png)
  
  
  
