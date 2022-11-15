@@ -190,7 +190,16 @@ Valor do Bem dos Candidatos
           Valor Mediano  = R$ 107.300,00
   
 434 candidatos não prestaram conta/ apresentaram valor zerado de bem 
+
+Apoio presidencial
+
+![image](https://user-images.githubusercontent.com/93551585/201998484-532b8151-9c44-4f8a-bc2c-7996053c2471.png)
+
+          De todos os candidatos:
+          923 estavam apoiando Bolsonaro
+          608 estavam apoiando Lula
           
+         
 4- Comparação entre Redes Sociais declaradas dos candidatos
 
           Rede social declarada por candidato
