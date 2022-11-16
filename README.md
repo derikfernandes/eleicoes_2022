@@ -167,6 +167,7 @@ Existe uma tendência a uma distribuição normal em torno de 50 anos de idade
               
 A maioria dos candidatos ainda é composto por homens 
 
+
  Grau Instrução
           
 ![image](https://user-images.githubusercontent.com/93551585/198732660-d6b5914f-efa4-4805-868f-9806b6cb0519.png)
@@ -259,6 +260,15 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%), 10,91% dec
 ![image](https://user-images.githubusercontent.com/93551585/202003473-5a10e568-9c6e-459b-ad6b-3e1206ed4d5a.png)
 
  
+6- Resultado Eleição
+
+Situação dos Candidatos após eleição
+
+![image](https://user-images.githubusercontent.com/93551585/202266606-ab486e56-6454-4d08-8dae-d850c20cb188.png)
+
+70 candidatos eleitos e 781 suplentes
+
+
 
  
 
