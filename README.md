@@ -208,28 +208,9 @@ Apoio presidencial
 ![image](https://user-images.githubusercontent.com/93551585/199286026-e9dc76bd-a4f4-4e20-8325-0cbe3437478d.png)
 
 
-Dos 1531 candidatos 
-         
-840 não declararam nenhuma rede social (54,87%)
-
-167 declararam pssuir pelo menos 2 redes sociais (10,91%)
-
-153 declararam possuir pelo menos uma rede social (10%)
-
-115 declararam possuir 3 redes sociais (7,51%) 
- 
- 94  declararam possuir 4 redes sociais (6,14%)
- 
- 71  declararam possuir 6 redes sociais (4,64%)
-  
- 64  declararam possuir 5 redes sociais (4,18%)
- 
- 24  declararam possuir 7 redes sociais (1,57%)
- 
- 3   declararam possuir 8 redes sociaise (0,20%)
+Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%),167 declararam pssuir pelo menos 2 redes sociais (10,91%), 153 declararam possuir pelo menos uma rede social (10%), 115 declararam possuir 3 redes sociais (7,51%), 94  declararam possuir 4 redes sociais (6,14%), 71  declararam possuir 6 redes sociais (4,64%), 64  declararam possuir 5 redes sociais (4,18%), 24  declararam possuir 7 redes sociais (1,57%) e 3 declararam possuir 8 redes sociaise (0,20%)
           
           
-
           Redes sociais mais declaradas 
           
 ![image](https://user-images.githubusercontent.com/93551585/199564013-1b4b44cc-b1b6-4d9a-a784-95d90b4fa1df.png)
