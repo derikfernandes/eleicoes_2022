@@ -213,7 +213,7 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%),167 declara
           
           Redes sociais mais declaradas 
           
-![image](https://user-images.githubusercontent.com/93551585/199564013-1b4b44cc-b1b6-4d9a-a784-95d90b4fa1df.png)
+![image](https://user-images.githubusercontent.com/93551585/202912280-d3df7adc-ab03-48f0-8f1d-0d82126c6045.png)
 
 5- Gastos em Campanhas
 
