@@ -215,6 +215,8 @@ Dos 1531 candidatos 840 não declararam nenhuma rede social (54,87%),167 declara
           
 ![image](https://user-images.githubusercontent.com/93551585/202912280-d3df7adc-ab03-48f0-8f1d-0d82126c6045.png)
 
+Podemos Notar que as redes sociais mais declaradas são Facebook e Instagram
+
 5- Gastos em Campanhas
 
           Máximo = R$ 3.286.454,99 (Candidato Arnaldo Jardim)
