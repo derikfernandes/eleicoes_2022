@@ -1,4 +1,6 @@
 **Análise Estatísticas das eleições em 2022**
+Essa análise de forma sucinta se encontra no meu medium que vocÊ pode acessar no link a seguir:
+https://medium.com/@derikfernandes/elei%C3%A7%C3%A3o-2022-quais-fatores-nas-candidaturas-mais-influenciaram-na-quantidade-de-votos-51b7ceb1d485
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
